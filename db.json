@@ -1,34 +1,10 @@
 {
-  "feedback": [
-    {
-      "img": "asdf",
-      "name": "asdf",
-      "author": "asdf",
-      "genre": "Science",
-      "edition": "2020",
-      "publisher": "asdf",
-      "cost": "33",
-      "id": 1
-    },
-    {
-      "img": "asdfasf",
-      "name": "asfasdfasdf",
-      "author": "ffaf",
-      "genre": "Science",
-      "edition": "2020",
-      "publisher": "asfadsfasfd",
-      "cost": "333",
-      "id": 2
-    },
-    {
-      "img": "asdfasf",
-      "name": "asfasdfasdf",
-      "author": "ffaf",
-      "genre": "Science",
-      "edition": "2020",
-      "publisher": "asfadsfasfd",
-      "cost": "333",
-      "id": 3
-    }
-  ]
+  "user": {
+    "id": 1,
+    "username": "Bhrugu",
+    "url": "https://i.pravatar.cc/300",
+    "fullname": "Bhrugu Prasad",
+    "email": "bhrugupadhi@gmail.com",
+    "password": "12345"
+  }
 }
