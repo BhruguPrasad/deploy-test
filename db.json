@@ -1,10 +1,12 @@
 {
-  "user": {
-    "id": 1,
-    "username": "Bhrugu",
-    "url": "https://i.pravatar.cc/300",
-    "fullname": "Bhrugu Prasad",
-    "email": "bhrugupadhi@gmail.com",
-    "password": "12345"
-  }
+  "user": [
+    {
+      "name": "adfadsfadsf",
+      "age": "55",
+      "gender": "female",
+      "country": "evev",
+      "profession": "student",
+      "id": 1
+    }
+  ]
 }
