@@ -1,15 +1,42 @@
 {
   "user": [
     {
-    "company": "Ellette",
-		"postedAt": "2021-03-30",
-		"city": "Gangtok",
-		"location": "American Samoa",
-		"role": "Frontend",
-		"level": "Junior",
-		"contract": "Full Time",
-		"position": " Backend Developer",
-		"language": "Java"
-	  }
+      "name": "adfadsfadsf",
+      "age": "55",
+      "gender": "female",
+      "country": "evev",
+      "profession": "student",
+      "id": 1
+    }
+  ],
+  "cars": [],
+  "wishlisted_cars": [
+    {
+      "brand": "tata",
+      "type": "manual",
+      "year": "2020",
+      "kms": "1212",
+      "description": "1212",
+      "price": "1212",
+      "id": 3
+    },
+    {
+      "brand": "tata",
+      "type": "manual",
+      "year": "2020",
+      "kms": "3232",
+      "description": "asfasfdafaf",
+      "price": "3232",
+      "id": 4
+    },
+    {
+      "brand": "tata",
+      "type": "manual",
+      "year": "2020",
+      "kms": "11212",
+      "description": "121212",
+      "price": "121212",
+      "id": 5
+    }
   ]
 }
